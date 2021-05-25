@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I’m currently working on: Properly Inc as a Javascript Developer.
-- 💡 I’m currently learning: AWS, Algorithms and Data Structure.
-- 📫 How to reach me: adubey2626[at]gmail[dot]com
+- 💻  I’m currently working on: Properly Inc as a Javascript Developer.
+- 💡  I’m currently learning: AWS, Algorithms and Data Structure.
+- 📫  How to reach me: adubey2626[at]gmail[dot]com
 
 ![](https://github-readme-stats.vercel.app/api?username=RagedPanda&show_icons=true&count_private=true&theme=radical)
 
