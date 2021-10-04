@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻  I’m currently working on Properly Inc as a Javascript Developer.
+- 💻  I’m currently working on Sarv web pvt ltd as a Software Developer.
 - 💡  I’m currently learning - AWS, Algorithms and Data Structure.
 - 📫  How to reach me: adubey2626[at]gmail[dot]com
 
