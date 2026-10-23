@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 💡  I’m currently learning - AWS, Algorithms and Data Structure.
 - 📫  How to reach me: adubey2626[at]gmail[dot]com
 
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagedPanda&include_all_commits=true&show_icons=true&count_private=true&theme=jolly)
+![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagedPanda&include_all_commits=true&show_icons=true&count_private=true&theme=jolly&hide_rank=true)
 
-![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RagedPanda&layout=compact&theme=jolly)
