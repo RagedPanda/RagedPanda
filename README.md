@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌍  I love open source and enjoy contributing to the projects I use.
 - 📫  How to reach me: adubey2626[at]gmail[dot]com
 
-![Ankur's GitHub stats](https://ragedpanda-readme-stats.vercel.app/api?username=RagedPanda&include_all_commits=true&show_icons=true&count_private=true&theme=jolly&hide_rank=true)
+![Ankur's GitHub stats](./profile/stats.svg)
 
